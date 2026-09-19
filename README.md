@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingbooks-co-kr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingbooks-co-kr&layout=compact&theme=tokyonight&langs_count=6&hide=html,css)
 
 <!--
 **codingbooks-co-kr/codingbooks-co-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
