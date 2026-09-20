@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🎨 코딩북스 (CodingBooks)
+# 🎨 코딩북스(Codingbooks.co.kr)
 
 > *"Just Do It!"*  
 > **그냥 해 봅시다! 인생은 길고도 짧습니다. 머뭇거릴 이유를 찾기보다 그냥 해 봅시다!**
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 ### 🔗 Official Links
 - 🌐 **Website**: [codingbooks.co.kr](https://codingbooks.co.kr)
-- 📺 **YouTube**: [코딩아티스트 채널](www.youtube.com/@codingbooks-co-kr)
+- 📺 **YouTube**: [코딩북스 채널](www.youtube.com/@codingbooks-co-kr)
 - 💻 **Examples & Materials**: 본 GitHub 저장소를 통해 서적의 코드를 공유합니다.
