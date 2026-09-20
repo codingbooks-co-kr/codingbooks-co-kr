@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔗 Official Links
+### 🔗 Links
 - 🌐 **Website**: [codingbooks.co.kr](https://codingbooks.co.kr)
-- 📺 **YouTube**: [코딩북스](https://www.youtube.com/@codingbooks-co-kr))
+- 📺 **YouTube**: [코딩북스](https://www.youtube.com/@codingbooks-co-kr)
 - 💻 **Examples & Materials**: 본 GitHub 저장소를 통해 서적의 코드를 공유합니다.
