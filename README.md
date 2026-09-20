@@ -31,3 +31,9 @@ Here are some ideas to get you started:
 - 📺 **YouTube**: [코딩북스](https://www.youtube.com/@codingbooks-co-kr)
 - 💻 **Examples & Materials**: 본 GitHub 저장소를 통해 서적의 코드를 공유합니다.
 
+---
+
+### 🛠️ Top Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingbooks-co-kr&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
