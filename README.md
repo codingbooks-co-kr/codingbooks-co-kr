@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 ### 🔗 Links
 - 🌐 **Website**: [codingbooks.co.kr](https://codingbooks.co.kr)
 - 📺 **YouTube**: [코딩북스](https://www.youtube.com/@codingbooks-co-kr)
-- 💻 **Source Code**: 본 GitHub 저장소를 통해 서적의 코드를 공유합니다.
+- 💻 **소스코드**: 본 GitHub 저장소를 통해 서적의 코드를 공유합니다.
