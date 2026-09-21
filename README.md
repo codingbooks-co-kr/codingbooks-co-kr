@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📚 주요 출판 분야
-- **Creative Coding**: p5.js 기반 창의 코딩(코딩·음성·영상·사운드·게임·AI)
+- **Creative Coding**: p5.js 기반 창의 코딩 (코딩·음성·영상·사운드·게임·AI)
 - **Physical Computing**: p5.js와 IoT 하드웨어 연동 실습
 
 ---
